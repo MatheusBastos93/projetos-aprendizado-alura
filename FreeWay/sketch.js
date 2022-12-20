@@ -13,5 +13,6 @@ function draw() {
   verColisao();
   incluiPontos();
   marcaPonto();
+  
 }
 
